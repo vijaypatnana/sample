@@ -23,6 +23,6 @@
   <!--snapshotRepository>
 	<id>snapshots</id>
 	<url>http://localhost:8081/nexus/content/repositories/snapshots</url>
-  </snapshotRepository--!>
+  </snapshotRepository!-->
  </distributionManagement>
 </project>
